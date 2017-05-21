@@ -1,0 +1,82 @@
+/* 	
+	JDK - Informática 
+*/
+
+body{
+	background: #BBB;
+}
+
+.blog-data{
+  background-color: #800000;
+  color: #fff;
+  border-radius: 3px;
+}
+.blog-data .dia{
+  font-size: 36pt;
+}
+.blog-data .mes{
+  font-size: 12pt;
+}
+
+.post-nav span{
+  font-size: 30pt;
+}
+.post-nav{
+  background-color: #eee;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.blog-autor{
+  font-size: 20pt;
+  color: #999;
+}
+.blog-previa{
+  font-size: 16pt;
+}
+
+.sub-titulo-section{
+  margin-top: -5px;
+  color: #666666;
+}
+
+.footer{
+  background-color: #333;
+  padding:10px;
+  color: #fff;
+}
+.footer span{
+  font-size: 12pt;
+}
+
+.card{
+  padding: 20px;
+  color: #fff;
+  justify-content: center;
+  text-align: center;
+  border: 2px solid;
+  border-radius: 8px;
+}
+
+.card > span{
+  font-size: 60pt;
+}
+
+.card p {
+  margin-top: 30px;
+  font-size: 16pt;
+}
+
+.card-blue{
+  background-color: #37abc8;
+}
+.card-green{
+  background-color: #10ca6a;
+}
+.card-orange{
+  background-color: #ff7542;
+}
+
+.info-num {
+  font-size: 27pt;
+}

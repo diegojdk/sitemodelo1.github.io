@@ -1,0 +1,119 @@
+﻿/* JDK - INFORMÁTICA
+SITE MODELO 123 */
+/*div{
+	border: #000 solid 1px;
+}*/
+
+body{
+	background-color: #999;
+}
+
+.texto_centro{
+	text-align: center;
+	color: #3366FF ;
+}
+
+.texto_centroh3{
+	
+	text-align: center;
+	color: #33CCFF;
+}
+
+/* O QUE FAZEMOS */
+
+.parte1{
+	background-color: #000066;
+	color: #FFF;
+	text-align: justify;
+}
+
+.parte2{
+	background-color: #006600;
+	color: #FFF;
+	text-align: justify;
+}
+
+.parte3{
+	background-color: #660000;
+	color: #fff;
+	text-align: justify;
+}
+
+/* PARTE DO SOBRE O SITE */
+.sobre1{
+	border: solid 10px #999;
+	background-color: #B2DFEE;
+	color: #000;
+	text-align: justify;
+	padding: 50px;	
+}
+
+.sobre2{
+	border: solid 10px #999;
+	background-color: #9AC0CD;
+	color: #fff;
+	text-align: justify;
+	padding: 30px;
+}
+
+/* A EQUIPE */
+
+.img_equi{
+	border: solid 3px #999;
+	border-radius: 10px;
+	padding: 20px;
+	background-color: #00BFFF;
+	text-align: center;
+}
+
+.txt_equi{
+	margin-top: 10px;
+	text-align: center;
+	color: #000;
+	font-weight: bold;
+}
+
+/* FORMULÁRIO */
+.img_form{
+	text-align: center;
+}
+
+/* RODA PÉ */
+.footer{
+	background-color: #000;
+	color: #fff;
+}
+
+
+/* POST's */
+.data{ /* DIV DA COLUNA 2 */
+	background-color: #4682B4;
+	text-align: center;
+	color: #fff;
+}
+.dia{ /* DIV DO NÚMERO */
+ font-size: 50px;	
+}
+
+.titulo{ /* DIV DO TITULO */
+	font-size: 50px;
+	font-weight: bold;
+	color: #000080;
+	padding: 12px;
+}
+
+.escrito{ /* PARAGRAFO DO ESVRITO POR */
+	font-size: 20px;
+	color: #fff;
+}
+
+.img{ /* DIV DA IMAGEM */
+	text-align: center;
+	padding: 20px;
+}
+
+.textcont{ /* PARAGRAFO DO CONTEUDO */
+	padding: 10px;
+	font-size: 15px;
+	text-align: justify;
+}
